@@ -23,7 +23,9 @@ Esta seção do dashboard apresenta um resumo de indicadores econômicos globais
 
 Este dashboard detalha as taxas de crescimento e a evolução anual de indicadores. As visualizações de área e de barras permitem comparar o crescimento e o decrescimento anual entre diferentes países, além de mostrar a evolução da taxa de crescimento ao longo dos anos.
 
-**[Aqui você pode arrastar e soltar a imagem da tela com os gráficos de crescimento]**
+<img width="1385" height="722" alt="Captura de tela 2025-09-18 104603" src="https://github.com/user-attachments/assets/241e305e-1dee-45a2-af07-efc8e7dfbac2" />
+
+
 
 ![Evolução da Taxa de Crescimento Anual](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/blob/main/caminho-da-sua-imagem2.png?raw=true)
 
