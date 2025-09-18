@@ -1,6 +1,13 @@
-# Análise de Dados e Dashboard Interativo
+# Projeto- Análise de PIB com Power BI
 
-Este projeto apresenta uma análise visual de dados, com o objetivo de fornecer insights claros e diretos através de dashboards. As visualizações foram criadas para mostrar tendências anuais, rankings de crescimento e distribuição geográfica de indicadores-chave.
+# objetivo do projeto
+O objetivo foi comparar o PIB do ano atual com o ano anterior, identificar os países com o maior PIB por ranking e analisar o crescimento anual por país.
+
+
+
+Na primeira página, foquei em uma visão geral, mostrando o ranking dos países com maior PIB e a evolução desse indicador ao longo dos anos. Já na segunda página, a análise se aprofundou, destacando o top 5 de países com maior crescimento anual e, em contraste, os top 5 com o maior decrescimento.
+Esse projeto foi uma ótima oportunidade para aplicar minhas habilidades em análise de dados e visualização de informações, transformando dados em insights e fáceis de entender.
+
 
 ---
 
