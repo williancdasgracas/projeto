@@ -22,7 +22,7 @@ Esta seção do dashboard apresenta um resumo de indicadores econômicos globais
 <img width="1394" height="736" alt="Captura de tela 2025-09-18 104546" src="https://github.com/user-attachments/assets/6cab51d9-d9af-4dd1-8380-48c9a6df8317" />
 
 
-![Distribuição Global do PIB](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/blob/main/caminho-da-sua-imagem1.png?raw=true)
+![Distribuição Global do PIB]
 
 ---
 
@@ -34,7 +34,7 @@ Este dashboard detalha as taxas de crescimento e a evolução anual de indicador
 
 
 
-![Evolução da Taxa de Crescimento Anual](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/blob/main/caminho-da-sua-imagem2.png?raw=true)
+![Evolução da Taxa de Crescimento Anual]
 
 ---
 
